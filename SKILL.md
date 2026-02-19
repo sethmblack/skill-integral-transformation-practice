@@ -4,7 +4,7 @@ description: A framework for understanding and practicing the comprehensive tran
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.4242
+  version: 1.0.4243
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - integral-transformation-practice
